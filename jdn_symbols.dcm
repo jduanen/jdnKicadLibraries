@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP QTM3063T1
+D OPTOISOLATOR 5KV TRIAC 4pin mini-flat
+K 1516-1306-1-ND
+F http://optoelectronics.liteon.com/upload/download/DS70-2001-026/MOC306X%20series%20201606.pdf
+$ENDCMP
+#
+#End Doc Library
